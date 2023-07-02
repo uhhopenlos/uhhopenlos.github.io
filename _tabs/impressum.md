@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-gavel
-order: 4
+order: 5
 ---
 # Angaben gemäß § 5 TMG
 
