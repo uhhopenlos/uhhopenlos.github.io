@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-gavel
-order: 5
+order: 4
 ---
 # Angaben gemäß § 5 TMG
 
@@ -16,13 +16,14 @@ Maurus Wollensak
 # Kontakt:
 
 Telefon: 0157-76314781
-E-Mail: <a href='mailto:mauruswollensak@gmail.com'>mauruswollensak@gmail.com</a><br></p>
+
+E-Mail: <a href='mailto:mauruswollensak@gmail.com'>mauruswollensak@gmail.com</a>
 
 # Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Maurus Wollensak
-Haynstr. 33
-20249 Hamburg
+
+Haynstr. 33, 20249 Hamburg
 
 # Haftungsausschluss:
 
