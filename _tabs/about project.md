@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 1
+order: 5
 ---
 
 The project started as an experimental seminar in which students contributed articles related to the law of the Sea while using a disruptive technological approach in order to overcome existing interdisciplinary barriers between computer science and law. This technological approach ensures that contributions can easily be updated by the author and makes the editorial process much more effective inter alia through the possibility of a simultaneous review process.
