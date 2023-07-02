@@ -5,4 +5,6 @@ authors: [Ipsen, Ott]
 image:
   path: '/assets/img/posts/sea-level-rise.jpg'
   alt: Image by Jason Steffan (www.pexels.com)
+categories: [Contemporary topics, Climate change]
+tags: [climate change, sea level rise, baselines]
 ---
